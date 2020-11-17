@@ -4,7 +4,7 @@
 
 My name is Katy Donoghue and I'm a digital marketer turned software developer based in Savannah, GA. Thanks for taking the time to visit my GitHub page!
 
-### A little more about me:
+### A little about me:
 
 I'm currently enrolled in the Full-Stack Immersive Program at DigitalCrafts, where I have created web apps like [LiftLogger](https://github.com/kjdonoghue/LiftLogger), with more to come!  
 
