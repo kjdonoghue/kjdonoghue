@@ -8,8 +8,8 @@ My name is Katy Donoghue and I'm a digital marketer turned software developer ba
 
 I'm currently enrolled in the Full-Stack Immersive Program at DigitalCrafts, where I have created web apps like [LiftLogger](https://github.com/kjdonoghue/LiftLogger), with more to come!  
 
-- 🌱 I’m currently learning: Redux
-- 🔭 I’m currently working on: a gardening app to help me keep track of when to start my seeds
+- 🌱 I’m currently learning: JWT Authentication
+- 🔭 I’m currently working on: a gardening app using react and redux to help me keep track of when to start my seeds
 - ⚡ Fun fact: I have two dogs, a Great Pyrenees and a Pyrenees/Newfoundland mix, together they weigh over 225 pounds - and yes, they both think they are lap dogs!
 
 ### Technologies & Tools
