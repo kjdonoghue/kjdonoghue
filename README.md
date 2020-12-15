@@ -9,7 +9,7 @@ My name is Katy Donoghue and I'm a digital marketer turned software developer ba
 I'm currently enrolled in the Full-Stack Immersive Program at DigitalCrafts, where I have created web apps like [Garden Tracker](https://github.com/kjdonoghue/garden-tracker) & [LiftLogger](https://github.com/kjdonoghue/LiftLogger), with more to come!  
 
 - 🌱 I’m currently learning: JWT Authentication
-- 🔭 I’m currently working on: designing and developing management software for [Silverthreads](https://www.silverthread-designs.com), an amazing jewlery company based in Houston, TX to help with managing inventory and costs.
+- 🔭 I’m currently working on: designing and developing management software for [Silverthreads](https://www.silverthread-designs.com), an amazing jewelry company based in Houston, TX, to help with managing inventory and costs.
 - ⚡ Fun fact: I have two dogs, a Great Pyrenees and a Pyrenees/Newfoundland mix, together they weigh over 225 pounds - and yes, they both think they are lap dogs!
 
 ### Technologies & Tools
