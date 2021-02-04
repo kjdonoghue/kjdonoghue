@@ -16,9 +16,9 @@ I recently graduated from the Full-Stack Immersive Program at DigitalCrafts, whe
 
 In addition to writing code, I also have been a freelance writer for several years. I recently started sharing web development articles on [Medium](https://katydonoghue.medium.com) and other sites. You can check out some of my posts below:
 
-[Build a Growing Zone Finder with HTML, CSS & Javascript](https://medium.com/swlh/build-a-growing-zone-finder-with-html-css-and-javascript-17a144ac1981)
+- [Build a Growing Zone Finder with HTML, CSS & Javascript](https://medium.com/swlh/build-a-growing-zone-finder-with-html-css-and-javascript-17a144ac1981)
 
-[10 Mac Keyboard Shortcuts Every New Programmer Needs to Know](https://medium.com/swlh/10-mac-keyboard-shortcuts-every-new-programmer-needs-to-know-758d98a1e758)
+- [10 Mac Keyboard Shortcuts Every New Programmer Needs to Know](https://medium.com/swlh/10-mac-keyboard-shortcuts-every-new-programmer-needs-to-know-758d98a1e758)
 
 ### Technologies & Tools:
 
