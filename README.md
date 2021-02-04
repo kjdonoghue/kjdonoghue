@@ -8,8 +8,8 @@ My name is Katy Donoghue and I'm a digital marketer turned software developer ba
 
 I recently graduated from the Full-Stack Immersive Program at DigitalCrafts, where I created web apps like [Silverthread Designs Management Software](https://github.com/kjdonoghue/Silverthread-Designs), [Garden Tracker](https://github.com/kjdonoghue/garden-tracker), & [LiftLogger](https://github.com/kjdonoghue/LiftLogger).
 
-- 🌱 I’m currently learning: PHP - my journey into software development began with curiousity about WordPress sites. Learning PHP has been on my to do list for quite a while, so I am excited to finally dedicate some time to tackling this!
-- 🔭 I just finished: designing and developing management software for [Silverthreads](https://www.silverthread-designs.com), an amazing jewelry company based in Houston, TX, to help with managing inventory and costs, you can check it out [here](https://github.com/kjdonoghue/Silverthread-Designs).
+- 🌱 I’m currently working on: a gardening challenge app. I am a year-round gardener, my extended family are all gardeners too, and we are extremely competitive. So, based on a [previous gardening app](https://github.com/kjdonoghue/garden-tracker) that I made, I'm creating one that will allow us to complete to see who grows the most produce per square foot, most cost effectively, etc. What does the winner get? Bragging rights and a lot of produce.
+- :heavy_check_mark: I just finished: designing and developing management software for [Silverthreads](https://www.silverthread-designs.com), an amazing jewelry company based in Houston, TX, to help with managing inventory and costs, you can check it out [here](https://github.com/kjdonoghue/Silverthread-Designs).
 - ⚡ Fun fact: I have two dogs, a Great Pyrenees and a Pyrenees/Newfoundland mix, together they weigh over 225 pounds - and yes, they both think they are lap dogs! 
 
 ### Technologies & Tools:
