@@ -2,7 +2,7 @@
 
 ## Hello There! 👋
 
-My name is Katy Donoghue and I'm a digital marketer turned software developer based in Savannah, GA. Thanks for taking the time to visit my GitHub page!
+My name is Katy Donoghue and I'm a software developer based in Savannah, GA. Thanks for taking the time to visit my GitHub page!
 
 ### A Little About Me:
 
