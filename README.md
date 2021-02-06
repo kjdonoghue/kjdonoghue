@@ -12,7 +12,7 @@ I recently graduated from the Full-Stack Immersive Program at DigitalCrafts, whe
 - :heavy_check_mark: I just finished: designing and developing management software for [Silverthreads](https://www.silverthread-designs.com), an amazing jewelry company based in Houston, TX, to help with managing inventory and costs, you can check it out [here](https://github.com/kjdonoghue/Silverthread-Designs).
 - ⚡ Fun fact: I have two dogs, a Great Pyrenees and a Pyrenees/Newfoundland mix, together they weigh over 225 pounds - and yes, they both think they are lap dogs! 
 
-### Codesmith and Wordsmith:
+### Writing:
 
 In addition to writing code, I also have been a freelance writer for several years. I recently started sharing web development articles on [Medium](https://katydonoghue.medium.com) and other sites. You can check out some of my posts below:
 
