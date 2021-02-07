@@ -14,7 +14,7 @@ I recently graduated from the Full-Stack Immersive Program at DigitalCrafts, whe
 
 ### Writing:
 
-In addition to writing code, I also have been a freelance writer for several years. I recently started sharing web development articles on [Medium](https://katydonoghue.medium.com) and other sites. You can check out some of my posts below:
+In addition to writing code, I also write articles, blog posts, and e-books. You can check out some of my posts on web development below:
 
 - [3 UI Design Features for User-Friendly Data Entry](https://medium.com/swlh/3-ui-design-features-for-user-friendly-data-entry-3ab881efbfdd?source=friends_link&sk=af8946427bfff4e050ce9e8ca9d3deb5)
 
