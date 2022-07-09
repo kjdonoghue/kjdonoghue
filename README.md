@@ -2,11 +2,9 @@
 
 ## Hello There! 👋
 
-My name is Katy Donoghue and I'm a software developer based in Savannah, GA. Thanks for taking the time to visit my GitHub page!
+My name is Katy Donoghue and I'm based in Savannah, GA. Thanks for taking the time to visit my GitHub page!
 
 ### A Little About Me:
-
-I recently graduated from the Full-Stack Immersive Program at DigitalCrafts, where I created web apps like [Silverthread Designs Management Software](https://github.com/kjdonoghue/Silverthread-Designs), [Garden Tracker](https://github.com/kjdonoghue/garden-tracker), & [LiftLogger](https://github.com/kjdonoghue/LiftLogger).
 
 - 🌱 I’m currently working on: a gardening challenge app. I am a year-round gardener, my extended family are all gardeners too, and we are extremely competitive. So, based on a [previous gardening app](https://github.com/kjdonoghue/garden-tracker) that I made, I'm creating one that will allow us to compete to see who grows the most produce per square foot, most cost effectively, etc. What does the winner get? Bragging rights and a lot of produce.
 - :heavy_check_mark: I just finished: designing and developing management software for [Silverthreads](https://www.silverthread-designs.com), an amazing jewelry company based in Houston, TX, to help with managing inventory and costs, you can check it out [here](https://github.com/kjdonoghue/Silverthread-Designs).
@@ -28,9 +26,6 @@ In addition to writing code, I also write articles, blog posts, and e-books. You
 
 ### Let's Connect!
 
-<a href="https://www.https://twitter.com/katyjdonoghue/">
-    <img align="left" alt="Katy Donoghue | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> 
-</a> 
 <a href="https://www.linkedin.com/in/katy-donoghue/">
     <img align="left" alt="Katy Donoghue | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
